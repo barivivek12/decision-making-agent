@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Decision-Making Resolution Agent
 
 An autonomous tool-using agent that resolves customer order issues.
@@ -20,3 +21,6 @@ An autonomous tool-using agent that resolves customer order issues.
 | ORD-1001 Wireless Headphones (stock = 0) | Refund issued |
 | ORD-1002 Bluetooth Speaker (stock = 5)   | Exchange confirmed |
 | ORD-9999 Unknown order                   | Graceful error message |
+=======
+# decision-making-agent
+>>>>>>> origin/main
