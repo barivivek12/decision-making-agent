@@ -1,0 +1,12 @@
+# SQLite database file — do NOT push this, run database.py to recreate it
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment / secrets
+.env
